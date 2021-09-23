@@ -32,6 +32,8 @@ I am open to new, love to discover new technologies 💻 and work on cool projec
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/JonasHeinzmann-AI/README_icons/main/language_and_tools/square/flutter/flutter.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
+<br>
+<br>
 
 
 ### 📊 Github Stats
