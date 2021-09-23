@@ -29,6 +29,7 @@ I am open to new, love to discover new technologies 💻 and work on cool projec
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/JonasHeinzmann-AI/README_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/JonasHeinzmann-AI/README_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JonasHeinzmann-AI/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/JonasHeinzmann-AI/README_icons/main/language_and_tools/square/flutter/flutter.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
 
