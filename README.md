@@ -7,7 +7,7 @@ I am open to new, love to discover new technologies 💻 and work on cool projec
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="./ai-sun-type.gif" width="360px"/>
+<img align="right" alt="GIF" src="./ai-sun-type.gif" width="330px"/>
   
 ### 🧐 More About Me:
 
