@@ -3,7 +3,7 @@
 <a href='https://www.kaggle.com/remgalleu'><img alt="kaggle" src="./assets/kaggle.svg" height='18px'/></a>
 
 
-I am open to new, love to discover new technologies 💻 and work on cool projects🛠️. I can quickly adapt to many situations, such as Dull Stack Web Development 🌐, App Development 📱an ML Engineering 🤖.
+I am open to new, love to discover new technologies 💻 and work on cool projects🛠️. I can quickly adapt to many situations, such as Full Stack Web Development 🌐, App Development 📱an ML Engineering 🤖.
 <br/>
 <br/>
 
@@ -11,7 +11,7 @@ I am open to new, love to discover new technologies 💻 and work on cool projec
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **G2Net Gravitational Wave Detection**
+- 🔭 &nbsp; I’m currently working at **cyko GmbH** as Head of AI
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JonasHeinzmann-AI?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jonas-heinzmann-19bba81a5/)
