@@ -9,9 +9,10 @@ I am open to new, love to discover new technologies 💻 and work on cool projec
 
 <img align="right" alt="GIF" src="./ai-sun-type.gif" width="250px"/>
   
-### 🧐 More About Me:
+### 😎 More About Me:
 
 - 🔭 &nbsp; I’m currently working at **cyko GmbH** as Head of AI
+- 👨‍🎓 &nbsp; I’m currently stuying Artificial Intelligence at **THI**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JonasHeinzmann-AI?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jonas-heinzmann-19bba81a5/)
