@@ -6,8 +6,6 @@
 I am open to new, love to discover new technologies 💻 and work on cool projects🛠️. I can quickly adapt to many situations, such as Full Stack Web Development 🌐, App Development 📱an ML Engineering 🤖.
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="./ai-sun-type.gif" width="250px"/>
   
 ### 😎 More About Me:
 
