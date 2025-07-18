@@ -9,7 +9,7 @@ I am open to new, love to discover new technologies 💻 and work on cool projec
   
 ### 😎 More About Me:
 
-- 🔭 &nbsp; I’m currently CEO of **NeuralMedic**
+- 🔭 &nbsp; I’m currently CEO of [**NeuralMedic**](https://neuralmedic.de)
 - 👨‍🎓 &nbsp; I’m currently stuying Artificial Intelligence at **THI**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JonasHeinzmann-AI?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
