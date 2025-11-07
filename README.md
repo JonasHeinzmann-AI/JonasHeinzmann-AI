@@ -2,18 +2,22 @@
 <a href='https://www.linkedin.com/in/jonas-heinzmann-19bba81a5/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/remgalleu'><img alt="kaggle" src="./assets/kaggle.svg" height='18px'/></a>
 
+I love building intelligent systems, exploring new technologies 💻, and solving real-world problems through software, machine learning, and automation. My work spans Full-Stack Web Development 🌐, App Development 📱, Machine Learning Engineering 🤖, AI infrastructure, and scalable backend systems.
 
-I am open to new, love to discover new technologies 💻 and work on cool projects🛠️. I can quickly adapt to many situations, such as Full Stack Web Development 🌐, App Development 📱an ML Engineering 🤖.
+I’m passionate about turning ideas into products—ranging from healthcare AI, financial analytics, agent-based chat systems, Odoo ERP extensions, RAG-based platforms, and multi-agent architectures for enterprise automation.
+
 <br/>
-<br/>
-  
+
 ### 😎 More About Me:
 
-- 🔭 &nbsp; I’m currently CEO of [**NeuralMedic**](https://neuralmedic.de)
-- 👨‍🎓 &nbsp; I’m currently stuying Artificial Intelligence at **THI**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JonasHeinzmann-AI?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jonas-heinzmann-19bba81a5/)
+- 🔭 &nbsp; CEO & Founder of **NeuralMedic**, building multi-agent healthcare and enterprise AI systems  
+- 🚀 &nbsp; Co-founder and technical lead across several products 
+- 👨‍🎓 &nbsp; Studying Artificial Intelligence at **TH Ingolstadt**  
+- 🧠 &nbsp; Specialized in LLM systems, RAG pipelines, FastAPI microservices, Odoo ERP engineering, RL agents for trading, and large-scale data ingestion  
+- 🛠️ &nbsp; Experienced in designing end-to-end architectures: backend infrastructure, cloud-based deployments, Neo4j knowledge graphs, vector databases, and modern DevOps setups  
+- 💬 &nbsp; Ask me about ML, backend architecture, Odoo, LLM systems, or anything tech-related  
+- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/jonas-heinzmann-19bba81a5/)  
+- 👨🏻‍💻 &nbsp; Most of my work is on [GitHub](https://github.com/JonasHeinzmann-AI?tab=repositories)
 
 <br>
 
@@ -30,10 +34,7 @@ I am open to new, love to discover new technologies 💻 and work on cool projec
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JonasHeinzmann-AI/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/JonasHeinzmann-AI/README_icons/main/language_and_tools/square/flutter/flutter.svg" align="left" alt="git" height='42px'/> </a>
 
-<br>
-<br>
-<br>
-
+<br><br><br>
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
@@ -42,4 +43,3 @@ I am open to new, love to discover new technologies 💻 and work on cool projec
 ![Most Used Languages](https://raw.githubusercontent.com/JonasHeinzmann-AI/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
