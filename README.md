@@ -10,7 +10,7 @@ I’m passionate about turning ideas into products—ranging from healthcare AI,
 
 ### 😎 More About Me:
 
-- 🔭 &nbsp; CEO & Founder of **NeuralMedic**, building multi-agent healthcare and enterprise AI systems  
+- 🔭 &nbsp; CEO & Founder of **NeuralMedic GmbH**, building multi-agent healthcare and enterprise AI systems  
 - 🚀 &nbsp; Co-founder and technical lead across several products 
 - 👨‍🎓 &nbsp; Studying Artificial Intelligence at **TH Ingolstadt**  
 - 🧠 &nbsp; Specialized in LLM systems, RAG pipelines, FastAPI microservices, Odoo ERP engineering, RL agents for trading, and large-scale data ingestion  
